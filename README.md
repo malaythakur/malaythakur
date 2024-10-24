@@ -65,3 +65,7 @@ I’m constantly working on sharpening my skills in:
 
 > "The best way to predict the future is to create it." — Peter Drucker
 
+
+## 🏆 My Holopin Badges
+
+[![An image of @malaythakur's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/malaythakur)](https://holopin.io/@malaythakur)
